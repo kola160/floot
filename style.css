@@ -1,0 +1,28 @@
+.left {
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 30px;
+    font-family: Courier;
+    border: 1px solid gray;
+    background-color: rgb(149, 17, 182);
+    /* This for floot */
+    float: left;
+}
+/* With out using clear */
+.clear{
+    clear: both;
+}
+.right {
+    width: 30%;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 30px;
+    font-family: Courier;
+    border: 1px solid gray;
+    background-color: rgb(149, 17, 182);
+    /* This for floot */
+    float: right;
+}
